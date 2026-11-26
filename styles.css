@@ -1,5 +1,5 @@
 :root{
-  --bg:#070a0d;--text:#f2f0e9;--muted:#737b82;--line:rgba(255,255,255,.12);
+  --bg:#070a0d;--text:#f2f0e9;--muted:#b8bec4;--line:rgba(255,255,255,.12);
   --glass:rgba(10,14,18,.68);--gold:#e6b56a;--cyan:#9bd9dc;
 }
 *{box-sizing:border-box}
@@ -132,10 +132,10 @@ button{
   color:var(--gold)
 }
 
-/* DARKER HERO DESCRIPTION */
+/* BRIGHTER HERO DESCRIPTION */
 .hero p{
   max-width:530px;
-  color:#8f969c;
+  color:#d6d9dc;
   font-size:17px;
   line-height:1.65
 }
